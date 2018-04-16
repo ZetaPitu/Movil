@@ -1,0 +1,444 @@
+#slider-2d {
+  /* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
+  /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+}
+#slider-2d P {
+  font-size: 30px;
+}
+#slider-2d H2 {
+  font-size: 22px;
+}
+@media screen and (min-width: 601px) {
+  #slider-2d #slider-2d {
+    height: 200px;
+    top: -80px;
+  }
+  #slider-2d .mbr-section-nopadding {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  #slider-2d .mbr-section {
+    top: -80px;
+    position: relative;
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+}
+#content5-1a {
+  top: -90px;
+}
+#content5-1a .mbr-section-title {
+  text-align: center;
+}
+#video1-1s DIV {
+  font-size: 23px;
+}
+#dropdown-menu-k .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-k .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-k .nav .link,
+#dropdown-menu-k .dropdown-item {
+  font-size: 1.2em;
+  color: #5cb85c;
+}
+#dropdown-menu-k .navbar,
+#dropdown-menu-k .dropdown-menu {
+  background: #eaba00;
+}
+#dropdown-menu-k .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-k .dropdown-menu a:hover,
+#dropdown-menu-k .dropdown-menu a:focus {
+  background: #d6aa00;
+}
+#dropdown-menu-k .navbar-toggler {
+  color: #5cb85c;
+}
+#dropdown-menu-m .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-m .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-m .nav .link,
+#dropdown-menu-m .dropdown-item {
+  font-size: 1.2em;
+  color: #5cb85c;
+}
+#dropdown-menu-m .navbar,
+#dropdown-menu-m .dropdown-menu {
+  background: #eaba00;
+}
+#dropdown-menu-m .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-m .dropdown-menu a:hover,
+#dropdown-menu-m .dropdown-menu a:focus {
+  background: #d6aa00;
+}
+#dropdown-menu-m .navbar-toggler {
+  color: #5cb85c;
+}
+#dropdown-menu-m .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-m .nav .link,
+#dropdown-menu-m .dropdown-item {
+  font-size: 1.2em;
+  color: #5cb85c;
+}
+#dropdown-menu-m .navbar,
+#dropdown-menu-m .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-m .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-m .dropdown-menu a:hover,
+#dropdown-menu-m .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-m .navbar-toggler {
+  color: #5cb85c;
+}
+#video1-1v .izquierda {
+  float: left;
+  witdh: 70%;
+}
+#video1-1u .mbr-section {
+  float: left;
+  witdh: 70%;
+}
+#custom-html-1x {
+  /* Type valid CSS here */
+}
+#custom-html-1x .my-image {
+  width: 100%;
+}
+#dropdown-menu-16 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-16 .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-16 .nav .link,
+#dropdown-menu-16 .dropdown-item {
+  font-size: 1.2em;
+  color: #5cb85c;
+}
+#dropdown-menu-16 .navbar,
+#dropdown-menu-16 .dropdown-menu {
+  background: #eaba00;
+}
+#dropdown-menu-16 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-16 .dropdown-menu a:hover,
+#dropdown-menu-16 .dropdown-menu a:focus {
+  background: #d6aa00;
+}
+#dropdown-menu-16 .navbar-toggler {
+  color: #5cb85c;
+}
+#msg-box3-1f .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1f .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#dropdown-menu-14 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-14 .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-14 .nav .link,
+#dropdown-menu-14 .dropdown-item {
+  font-size: 1.2em;
+  color: #5cb85c;
+}
+#dropdown-menu-14 .navbar,
+#dropdown-menu-14 .dropdown-menu {
+  background: #eaba00;
+}
+#dropdown-menu-14 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-14 .dropdown-menu a:hover,
+#dropdown-menu-14 .dropdown-menu a:focus {
+  background: #d6aa00;
+}
+#dropdown-menu-14 .navbar-toggler {
+  color: #5cb85c;
+}
+#msg-box3-1g .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1g .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#dropdown-menu-12 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-12 .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-12 .nav .link,
+#dropdown-menu-12 .dropdown-item {
+  font-size: 1.2em;
+  color: #5cb85c;
+}
+#dropdown-menu-12 .navbar,
+#dropdown-menu-12 .dropdown-menu {
+  background: #eaba00;
+}
+#dropdown-menu-12 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-12 .dropdown-menu a:hover,
+#dropdown-menu-12 .dropdown-menu a:focus {
+  background: #d6aa00;
+}
+#dropdown-menu-12 .navbar-toggler {
+  color: #5cb85c;
+}
+#form1-1h .btn {
+  color: #999;
+}
+#form1-1h .btn-secondary-outline {
+  color: #777;
+  background-image: none;
+  background-color: transparent;
+  boder: 3px;
+  border-color: #000;
+}
+#form1-1h .btn-secondary-outline.dropdown-toggle {
+  color: #f0f;
+  background-color: #000;
+  border-color: #000;
+}
+#dropdown-menu-10 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-10 .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-10 .nav .link,
+#dropdown-menu-10 .dropdown-item {
+  font-size: 1.2em;
+  color: #5cb85c;
+}
+#dropdown-menu-10 .navbar,
+#dropdown-menu-10 .dropdown-menu {
+  background: #eaba00;
+}
+#dropdown-menu-10 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-10 .dropdown-menu a:hover,
+#dropdown-menu-10 .dropdown-menu a:focus {
+  background: #d6aa00;
+}
+#dropdown-menu-10 .navbar-toggler {
+  color: #5cb85c;
+}
+#msg-box3-1i .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1i .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#dropdown-menu-y .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-y .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-y .nav .link,
+#dropdown-menu-y .dropdown-item {
+  font-size: 1.2em;
+  color: #5cb85c;
+}
+#dropdown-menu-y .navbar,
+#dropdown-menu-y .dropdown-menu {
+  background: #eaba00;
+}
+#dropdown-menu-y .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-y .dropdown-menu a:hover,
+#dropdown-menu-y .dropdown-menu a:focus {
+  background: #d6aa00;
+}
+#dropdown-menu-y .navbar-toggler {
+  color: #5cb85c;
+}
+#dropdown-menu-w .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-w .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-w .nav .link,
+#dropdown-menu-w .dropdown-item {
+  font-size: 1.2em;
+  color: #5cb85c;
+}
+#dropdown-menu-w .navbar,
+#dropdown-menu-w .dropdown-menu {
+  background: #eaba00;
+}
+#dropdown-menu-w .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-w .dropdown-menu a:hover,
+#dropdown-menu-w .dropdown-menu a:focus {
+  background: #d6aa00;
+}
+#dropdown-menu-w .navbar-toggler {
+  color: #5cb85c;
+}
+#dropdown-menu-u .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-u .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-u .nav .link,
+#dropdown-menu-u .dropdown-item {
+  font-size: 1.2em;
+  color: #5cb85c;
+}
+#dropdown-menu-u .navbar,
+#dropdown-menu-u .dropdown-menu {
+  background: #eaba00;
+}
+#dropdown-menu-u .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-u .dropdown-menu a:hover,
+#dropdown-menu-u .dropdown-menu a:focus {
+  background: #d6aa00;
+}
+#dropdown-menu-u .navbar-toggler {
+  color: #5cb85c;
+}
+#dropdown-menu-s .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-s .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-s .nav .link,
+#dropdown-menu-s .dropdown-item {
+  font-size: 1.2em;
+  color: #5cb85c;
+}
+#dropdown-menu-s .navbar,
+#dropdown-menu-s .dropdown-menu {
+  background: #eaba00;
+}
+#dropdown-menu-s .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-s .dropdown-menu a:hover,
+#dropdown-menu-s .dropdown-menu a:focus {
+  background: #d6aa00;
+}
+#dropdown-menu-s .navbar-toggler {
+  color: #5cb85c;
+}
+#dropdown-menu-q .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-q .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-q .nav .link,
+#dropdown-menu-q .dropdown-item {
+  font-size: 1.2em;
+  color: #5cb85c;
+}
+#dropdown-menu-q .navbar,
+#dropdown-menu-q .dropdown-menu {
+  background: #eaba00;
+}
+#dropdown-menu-q .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-q .dropdown-menu a:hover,
+#dropdown-menu-q .dropdown-menu a:focus {
+  background: #d6aa00;
+}
+#dropdown-menu-q .navbar-toggler {
+  color: #5cb85c;
+}
+#video1-1r {
+  margin-top: 10px;
+}
+#video1-1r DIV {
+  font-size: 23px;
+  text-align: center;
+}
+#dropdown-menu-1y .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1y .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-1y .nav .link,
+#dropdown-menu-1y .dropdown-item {
+  font-size: 1.2em;
+  color: #5cb85c;
+}
+#dropdown-menu-1y .navbar,
+#dropdown-menu-1y .dropdown-menu {
+  background: #eaba00;
+}
+#dropdown-menu-1y .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1y .dropdown-menu a:hover,
+#dropdown-menu-1y .dropdown-menu a:focus {
+  background: #d6aa00;
+}
+#dropdown-menu-1y .navbar-toggler {
+  color: #5cb85c;
+}
+#header2-2e {
+  /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+}
+@media screen and (max-width: 800px) {
+  #header2-2e h1,
+  #header2-2e h2,
+  #header2-2e h3,
+  #header2-2e h4,
+  #header2-2e h5,
+  #header2-2e h6,
+  #header2-2e .h1,
+  #header2-2e .h2,
+  #header2-2e .h3,
+  #header2-2e .h4,
+  #header2-2e .h5,
+  #header2-2e .h6,
+  #header2-2e .display-1,
+  #header2-2e .display-2,
+  #header2-2e .display-3,
+  #header2-2e .display-4 {
+    font-size: 22px;
+    font-family: "Playfair Display", sans-serif;
+  }
+}
+#custom-html-21 {
+  /* Type valid CSS here */
+}
+#custom-html-21 .my-image {
+  width: 10%;
+}
+#video1-24 DIV {
+  font-size: 23px;
+}
+#dropdown-menu-27 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-27 .navbar-brand a {
+  font-size: 30px;
+}
+#dropdown-menu-27 .nav .link,
+#dropdown-menu-27 .dropdown-item {
+  font-size: 1.2em;
+  color: #5cb85c;
+}
+#dropdown-menu-27 .navbar,
+#dropdown-menu-27 .dropdown-menu {
+  background: #eaba00;
+}
+#dropdown-menu-27 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-27 .dropdown-menu a:hover,
+#dropdown-menu-27 .dropdown-menu a:focus {
+  background: #d6aa00;
+}
+#dropdown-menu-27 .navbar-toggler {
+  color: #5cb85c;
+}
